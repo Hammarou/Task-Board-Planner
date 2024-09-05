@@ -1,0 +1,127 @@
+/* SET font-family AND font-size FOR ENTIRE DOCUMENT  */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+
+/* STYLE MODAL */
+.modal-body {
+  width: 100%;
+}
+
+.modal-body h1 {
+  font-size: 16px;
+}
+
+.modal-header {
+  display:flex;
+  flex-direction: column;
+}
+
+.div_content {
+  display: flex;
+
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  border-bottom: solid 1px gray;
+}
+
+#task_info {
+  display: flex;
+  flex-direction: column;
+}
+
+#first_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+#second_row {
+  margin-top: 10px;
+}
+
+.dropTarget {
+  min-height: 150px;
+}
+
+#task-description {
+  width: 100%;
+  height: 80px;
+}
+
+#modal-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* STYLE TASK BOXES */
+.redBox, .yellowBox, .whiteBox {
+  margin-bottom: 8px;
+  p:first-child {
+    padding: 5px 10px;
+  }
+
+  p {
+    margin-bottom: 5px;
+  }
+
+  .redBox {
+    background-color: red;
+    color: white;
+    p:first-child {
+      background-color: rgb(237, 15, 15);
+    }
+   
+  } 
+  
+  .yellowBox {
+    background-color: rgb(168, 133, 51);
+    color: black;
+    p:first-child {
+      background-color: rgb(242, 223, 17)
+    }
+  }
+  
+  .whiteBox {
+    background-color: white;
+    color: black;
+    p:first-child {
+      background-color: rgb(241, 239, 239);
+    }
+  }
+  
+  /* STYLE TASK BOX DELETE BUTTON */
+  button {
+    margin: 10px 0px;
+    background-color: #dc3545 !important;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    font-size: 16px;
+    line-height: 16px;
+    border-radius: 5px;
+  }
+}
+
+
+@media (min-width: 576px) {
+  .modal-dialog {
+      max-width: 420px;
+      margin: 1.75rem auto;
+  }
+}
