@@ -44,13 +44,13 @@ Greetings!
 Tasks that are saved to the 'To Do' task plate  have a title, due date and description based off of the inputs placed by the user in the modal form. Based of when each task is due, they are color coded:
 
 * White: The task is due at some date in the future of the current date.
-* Yellow: The task is due on the same day as the current date
-* Red: The task is overdue
+* Yellow: The task is due on the same day as the current date.
+* Red: The task is overdue.
 
 
 ### Move task
 
-Each task can be moved between the three task plate ('To Do', In Progress' and 'Done') by drag and drop. However, once the task is placed in the 'Done' taskbar it changes color to white and can nolonger be dropped in the 'To Do' taskbar
+Each task can be moved between the three task plate ('To Do', In Progress' and 'Done') by drag and drop. However, once the task is placed in the 'Done' taskbar it changes color to white and can nolonger be dropped in the 'To Do' task lane.
 
 ## Webpage Screenshot
 
