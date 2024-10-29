@@ -64,8 +64,7 @@ Each task can be moved between the three task plate ('To Do', In Progress' and '
 
 The deployed webpage can be viewed at following URL:
 
-
-
+https://github.com/Hammarou/Task-Board-Planner
 
 ## GitHub Repository Location
 
