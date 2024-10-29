@@ -17,7 +17,7 @@
 
 Greetings! 
 
-- The README Generator intends to enable the intended user (a company associate/manager handling the employee payroll matrix) to view and manage employee payroll data. The user will be prompted to enter as many employees as they wish (they will be prompted to provide nominal background information about each employee, such as first and last names, and salary). From this, the user will be able to acquire a list of all the employees (along with their information) they have entered; as well as calculate the average employee salary.
+- The Task Board Planner intends to enable the potential user (a company associate/manager handling the employee payroll matrix) to view and manage employee payroll data. The user will be prompted to enter as many employees as they wish (they will be prompted to provide nominal background information about each employee, such as first and last names, and salary). From this, the user will be able to acquire a list of all the employees (along with their information) they have entered; as well as calculate the average employee salary.
 
 
 ## Installation
