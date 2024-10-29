@@ -37,9 +37,9 @@ Greetings!
 
  For the successful utilization of this application:
 
-* Click the 'Add Task' button
-* Complete all the fields in the pop-up modal 
-* Click the "Add Task" button in the pop-up
+* Click the 'Add Task' button.
+* Complete all the fields in the pop-up modal.
+* Click the "Add Task" button in the pop-up.
 
 
 ### Task description
