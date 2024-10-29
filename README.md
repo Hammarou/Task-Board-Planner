@@ -44,7 +44,7 @@ Greetings!
 
 ### Task description
 
-Tasks saved to the 'To Do' task plate  have a title, due date, and description based on the inputs placed by the user in the modal form. Based on when each task is due, they are color-coded:
+Tasks saved to the 'To Do' task lane  have a title, due date, and description based on the inputs placed by the user in the modal form. Based on when each task is due, they are color-coded:
 
 * White: The task is due at some date in the future of the current date.
 * Yellow: The task is due on the same day as the current date.
@@ -53,7 +53,7 @@ Tasks saved to the 'To Do' task plate  have a title, due date, and description b
 
 ### Move task
 
-Each task can be moved between the three task lanes ('To Do', In Progress', and 'Done') by drag and drop. However, once the task is placed in the 'Done' task lane it changes color to white and can no longer be dropped in the 'To Do' task lane
+Each task can be moved between the three task lanes ('To Do', In Progress', and 'Done') by drag and drop. However, once the task is placed in the 'Done' task lane it changes color to white and can no longer be dropped in the 'To Do' task lane.
 
 
 ## Webpage Screenshot
